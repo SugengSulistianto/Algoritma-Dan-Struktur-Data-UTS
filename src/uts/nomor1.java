@@ -38,7 +38,7 @@ public class nomor1 {
         
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        int data[]={3,10,4,2,8};
+        int data[]={3,10,4,2,8,13};
         int cari=8;
         int IndeksAwal=0;
         int IndeksAkhir=data.length-1;
